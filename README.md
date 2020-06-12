@@ -30,6 +30,13 @@ $ npm start
 
 The website will be available at `http://localhost:3000`.
 
+# Deploy
+
+```bash
+# Build application
+$ npm run build
+```
+
 # Credits
 
 Project made by [@lguima](https://github.com/lguima) during the **Next Level Week #1 Booster** from [Rocketseat](https://rocketseat.com.br).
